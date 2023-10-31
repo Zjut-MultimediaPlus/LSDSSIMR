@@ -18,7 +18,7 @@ Please cite our papers if the database is useful for you. Thank you !
 C. Bai, Z. Cai, X. Yin and J. Zhang, "LSDSSIMR: Large-Scale Dust Storm Database Based on Satellite Images and Meteorological Reanalysis Data," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, doi: 10.1109/JSTARS.2023.3325783.
 
 ```
-@ARTICLE{10287393,
+@ARTICLE{Bai2023lsdssimr,
   author={Bai, Cong and Cai, Zhipeng and Yin, Xiaomei and Zhang, Jinglin},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={LSDSSIMR: Large-Scale Dust Storm Database Based on Satellite Images and Meteorological Reanalysis Data}, 
