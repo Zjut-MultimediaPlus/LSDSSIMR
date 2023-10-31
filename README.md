@@ -1,5 +1,5 @@
 # LSDSSIMR
-[LSDSSIMR: Large-Scale Dust Storm Database Based on Satellite Images and Meteorological Reanalysis Data](https://doi.org/10.1109/JSTARS.2023.3325783)
+Paper: [LSDSSIMR: Large-Scale Dust Storm Database Based on Satellite Images and Meteorological Reanalysis Data](https://doi.org/10.1109/JSTARS.2023.3325783)
 
 ## Abstract
 Since meteorological satellites can observe the Earth’s atmosphere from a spatial perspective at a large scale, in this paper, a dust storm database is constructed using multi-channel and dust label data from the Fengyun-4A (FY-4A) geosynchronous orbiting satellite, namely, the Large-Scale Dust Storm database based on Satellite Images and Meteorological Reanalysis data (LSDSSIMR), with a temporal resolution of 15 minutes and a spatial resolution of 4 km from March to May of each year during 2020–2022. Meteorological reanalysis data are added to LSDSSIMR for spatiotemporal prediction methods. Each data file is stored in HDF5 format, and the final LSDSSIMR contains nearly 10,000 HDF5 files. Moreover, some traditional dust detection methods based on spectral analysis are executed as a benchmark.
