@@ -23,9 +23,9 @@ C. Bai, Z. Cai, X. Yin and J. Zhang, "LSDSSIMR: Large-Scale Dust Storm Database 
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
   title={LSDSSIMR: Large-Scale Dust Storm Database Based on Satellite Images and Meteorological Reanalysis Data}, 
   year={2023},
-  volume={},
+  volume={16},
   number={},
-  pages={1-11},
+  pages={10121-10131},
   doi={10.1109/JSTARS.2023.3325783}
 }
 ```
